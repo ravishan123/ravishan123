@@ -2,7 +2,7 @@
  <hr></hr>
 
 
-<h1 align="center">Hi 👋, I'm Ravishan Premarathne</h1>
+<h1 align="center">Hi 👋, I'm Ravishan Premerathne</h1>
 <h3 align="center">I'm a passionate front-end developer and I'm learning DS and Algo... 😭 working on becoming a full-stack developer.
 </h3>
 
