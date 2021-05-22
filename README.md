@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Ravishan Premarathne</h1>
-<h3 align="center">A passionate frontend developer and I'm learning DS and Algo... 😭 working on becoming full stack devoloper</h3>
+<h3 align="center">I'm a passionate front-end developer and I'm learning DS and Algo... 😭 working on becoming a full-stack developer.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishan123&label=Profile%20views&color=0e75b6&style=flat" alt="ravishan123" /> </p>
 
