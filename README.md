@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ravishan-premerathne-5abb071a6/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ravishan premerathne" height="30" width="40" /></a>
-<a href="https://facebook.com/jhonny.eglish?_rdc=1&_rdr" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png" alt="ravishan lakshitha" height="30" width="40" /></a>
-<a href="https://instagram.com/ravixhan_lakshitha_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="ravixhan_lakshitha_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravishan-premerathne-5abb071a6/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="ravishan premerathne" height="auto" width="40" /></a>
+<a href="https://facebook.com/jhonny.eglish?_rdc=1&_rdr" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png" alt="ravishan lakshitha" height="auto" width="40" /></a>
+<a href="https://instagram.com/ravixhan_lakshitha_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="ravixhan_lakshitha_" height="auto" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
